@@ -1,5 +1,7 @@
 package com.yourway.car.config;
 
+import com.yourway.car.chat.ChatMessage;
+import com.yourway.car.chat.MessageType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;

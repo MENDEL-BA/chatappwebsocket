@@ -19,6 +19,12 @@ Maven 3.3.6
 cd existing_repo
 git checkout develop
 
+cd existing_repo
+git checkout develop
+
+install mysql database
+Create Database chat
+
 schema is automatically create if the the application run 
 Run the main class
 ```
